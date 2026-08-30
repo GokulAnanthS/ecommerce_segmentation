@@ -7,3 +7,4 @@ seaborn
 openpyxl
 umap-learn
 pyarrow
+ipykernel
