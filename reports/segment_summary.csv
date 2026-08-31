@@ -1,0 +1,5 @@
+segment,n_customers,avg_recency_days,avg_frequency,avg_monetary,avg_basket_size,pct_international,pct_of_total_revenue
+Active High-Value Core,1930,56.1,11.8,4909.7,24.9,0.0,54.5
+VIP Outlier,190,206.2,25.4,27002.2,59.1,34.2,29.5
+Lapsed Low-Value,3279,288.2,2.1,563.5,18.0,0.0,10.6
+International,453,174.7,4.3,2038.0,22.2,100.0,5.3

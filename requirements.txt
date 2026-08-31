@@ -8,3 +8,4 @@ openpyxl
 umap-learn
 pyarrow
 ipykernel
+streamlit
